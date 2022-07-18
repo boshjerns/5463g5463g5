@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/giftProof": "pages/api/giftProof.js",
+  "/api/whitelistProof": "pages/api/whitelistProof.js",
+  "/": "pages/index.html",
+  "/utils/_web3": "pages/utils/_web3.html",
+  "/wallet": "pages/wallet.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
